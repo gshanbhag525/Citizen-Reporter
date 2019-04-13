@@ -30,5 +30,6 @@ create a virtualenv
 ```
 pip intstall virtualenv
 virtualenv -p python3.6 tenshub
-
+source /tenshub/bin/activate
+pip install tensorflow==1.8
 ```
