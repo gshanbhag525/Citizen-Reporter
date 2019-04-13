@@ -14,3 +14,13 @@ Website directory consists of the the website code which u can run using XAMPP o
 Tensorflow directory consists of a Retrained  model for classifying garbage and potholes specifically.
 
 The instruction for each part is given each section.
+
+# Usage
+Clone the repository.
+
+'''
+git clone https://github.com/gshanbhag525/Citizen-Reporter
+cd Citizen-Reporter
+'''
+
+#IN LINUX/ MACOS
