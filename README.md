@@ -18,9 +18,17 @@ The instruction for each part is given each section.
 # Usage
 Clone the repository.
 
-'''
+```
 git clone https://github.com/gshanbhag525/Citizen-Reporter
 cd Citizen-Reporter
-'''
+```
 
 #IN LINUX/ MACOS
+
+create a virtualenv
+
+```
+pip intstall virtualenv
+virtualenv -p python3.6 tenshub
+
+```
