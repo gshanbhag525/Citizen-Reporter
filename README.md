@@ -33,3 +33,7 @@ virtualenv -p python3.6 tenshub
 source /tenshub/bin/activate
 pip install tensorflow==1.8
 ```
+##To test the model
+```
+python -m scripts.label_image  --graph=tf_files/retrained_graph.pb  --image=/Users/guneshs/Downloads/test1.jpg
+```
