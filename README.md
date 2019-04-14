@@ -37,3 +37,7 @@ pip install tensorflow==1.8
 ```
 python -m scripts.label_image  --graph=tf_files/retrained_graph.pb  --image=/Users/guneshs/Downloads/test1.jpg
 ```
+
+It will display the match as pothole or garbage.
+
+
