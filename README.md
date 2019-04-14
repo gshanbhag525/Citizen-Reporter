@@ -40,4 +40,13 @@ python -m scripts.label_image  --graph=tf_files/retrained_graph.pb  --image=/Use
 
 It will display the match as pothole or garbage.
 
+>(fortf1dot8) SecurityNinja:tensorflow guneshs$ python -m scripts.label_image  --graph=tf_files/retrained_graph.pb  --image=/Users/guneshs/Documents/garbage.jpg 
+
+Evaluation time (1-image): 0.228s
+
+garbage (score=0.99994)
+pothole (score=0.00006)
+
+
+
 
