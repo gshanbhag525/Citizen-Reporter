@@ -3,9 +3,9 @@ a social initiative against Potholes and Garbage
 
 This Repository shows you how to run an image classification model to classify garbage and potholes.
 There are 3 directories :
-1. Android
-2. Website
-3. Tensorflow 
+- Android
+- Website
+- Tensorflow 
 
 Android directory consists of the android code which you can import in the android studio.
 
