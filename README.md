@@ -1,5 +1,5 @@
 # Citizen-Reporter
-a social initiative against Potholes and Garbage 
+Created in a Hackathon called ACELATHON for a social initiative against Potholes and Garbage
 
 This Repository shows you how to run an image classification model to classify garbage and potholes.
 There are 3 directories :
